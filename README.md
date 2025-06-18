@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Laravel 10+**
+- **Laravel 9+**
 - **PHP 8.0+**
 - **MySQL**
 - **Blade (or optional Vue.js/Livewire for front-end)**
